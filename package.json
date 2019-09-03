@@ -1,0 +1,24 @@
+{
+  "name": "@mels/babel-preset-tsc-pluggable",
+  "version": "0.0.0",
+  "description": "Babel preset for common TypeScript and Styled Components configs.",
+  "author": "Melanie Seltzer <melleh11@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-styled-components": "^1.10.6",
+    "babel-plugin-typescript-to-proptypes": "^0.17.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "peerDependencies": {
+    "@babel/core": "^7.0.0"
+  }
+}
