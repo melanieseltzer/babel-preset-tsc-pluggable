@@ -1,6 +1,6 @@
 {
   "name": "@mels/babel-preset-tsc-pluggable",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Babel preset for common TypeScript and Styled Components configs.",
   "author": "Melanie Seltzer <melleh11@gmail.com>",
   "license": "MIT",
